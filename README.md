@@ -10,7 +10,7 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 
 ## 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,latex,md,php,py,r,aws,azure,docker,firebase,netlify,heroku,vercel,bootstrap,express,flask,laravel,nextjs,nodejs,react,redux,tailwind,threejs,vue,vite,blender,cloudflare,figma,git,matlab,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,css,html,java,js,latex,md,php,py,r,aws,azure,docker,firebase,heroku,vercel,bootstrap,express,flask,nextjs,nodejs,react,git,matlab,mongodb,mysql)](https://skillicons.dev)
 
 ## Badges
 [![An image of @himakshi2209's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himakshi2209)](https://holopin.io/@himakshi2209)
