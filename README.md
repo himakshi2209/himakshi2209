@@ -10,17 +10,18 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 
 ## 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?logo=javascript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-yellow?logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-Intermediate-yellow?logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-yellow?logo=cplusplus&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow?logo=css3&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-green?logo=powerbi&logoColor=white)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-Advanced-green?logo=microsoftpowerapps&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-Intermediate-yellow?logo=microsoftazure&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Java](https://img.shields.io/badge/Java-Intermediate-yellow?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![C](https://img.shields.io/badge/C-Intermediate-yellow?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/c/language)
+[![C++](https://img.shields.io/badge/C++-Intermediate-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.cplusplus.com/)
+[![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-green?style=for-the-badge&logo=powerbi&logoColor=white)](https://powerbi.microsoft.com/)
+[![Power Apps](https://img.shields.io/badge/Power%20Apps-Advanced-green?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)](https://powerapps.microsoft.com/)
+[![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-Intermediate-yellow?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+
 
 
 ## Badges
