@@ -42,7 +42,7 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 
 <br>
 <div align="center">
-  <a href="[https://www.linkedin.com/in/himakshi-chaturvedi-928370223]" target="_blank"  rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/himakshi-chaturvedi-928370223" target="_blank"  rel="noopener noreferrer">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="himakshi-linkedin" />
   </a>
   <a href="mailto:himakshi2209@gmail.com" target="top" rel="noopener noreferrer">
