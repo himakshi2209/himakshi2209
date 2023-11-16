@@ -3,6 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there+!;Welcome+to+my+profile;My+name+is+Himakshi+Chaturvedi;)](https://git.io/typing-svg)
 
+</div>
 
 I'm an AI/ML enthusiast, developer, and problem solver passionate about leveraging technology to create innovative solutions.
 
