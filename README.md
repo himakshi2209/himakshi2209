@@ -10,17 +10,18 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 
 ## 🛠️ Skills
 
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
-![C](https://img.shields.io/badge/C-Intermediate-yellow)
-![C++](https://img.shields.io/badge/C++-Intermediate-yellow)
-![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow)
-![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow)
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-green)
-![Power Apps](https://img.shields.io/badge/Power%20Apps-Advanced-green)
-![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow)
-![Azure](https://img.shields.io/badge/Azure-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?logo=javascript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Intermediate-yellow?logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-Intermediate-yellow?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-Intermediate-yellow?logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow?logo=css3&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-green?logo=powerbi&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-Advanced-green?logo=microsoftpowerapps&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow?logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Intermediate-yellow?logo=microsoftazure&logoColor=white)
+
 
 ## Badges
 [![An image of @himakshi2209's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himakshi2209)](https://holopin.io/@himakshi2209)
