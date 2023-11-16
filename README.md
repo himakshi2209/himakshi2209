@@ -22,6 +22,12 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 [![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-Intermediate-yellow?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 
+| ![Python](https://img.shields.io/badge/Python-Intermediate-yellow?style=for-the-badge&logo=python&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow?style=for-the-badge&logo=javascript&logoColor=white) | ![React](https://img.shields.io/badge/React-Intermediate-yellow?style=for-the-badge&logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-Intermediate-yellow?style=for-the-badge&logo=node.js&logoColor=white) |
+| --- | --- | --- | --- |
+| ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-Advanced-green?style=for-the-badge&logo=pandas&logoColor=white) | ![Data Science](https://img.shields.io/badge/Data%20Science-Advanced-green?style=for-the-badge&logo=python&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-Intermediate-yellow?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-Intermediate-yellow?style=for-the-badge&logo=css3&logoColor=white) |
+| ![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-green?style=for-the-badge&logo=powerbi&logoColor=white) | ![Power Apps](https://img.shields.io/badge/Power%20Apps-Advanced-green?style=for-the-badge&logo=microsoftpowerapps&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-Intermediate-yellow?style=for-the-badge&logo=amazonaws&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-Intermediate-yellow?style=for-the-badge&logo=microsoftazure&logoColor=white) |
+
+
 
 ## Badges
 [![An image of @himakshi2209's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himakshi2209)](https://holopin.io/@himakshi2209)
