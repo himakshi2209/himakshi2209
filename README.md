@@ -24,18 +24,19 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 
 
 
-- ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-- ![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge&logo=pandas&logoColor=white)
-- ![Data Science](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge&logo=python&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML-yellow?style=for-the-badge&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=css3&logoColor=white)
-- ![Power BI](https://img.shields.io/badge/Power%20BI-blue?style=for-the-badge&logo=powerbi&logoColor=white)
-- ![Power Apps](https://img.shields.io/badge/Power%20Apps-blue?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
-- ![AWS](https://img.shields.io/badge/AWS-yellow?style=for-the-badge&logo=amazonaws&logoColor=white)
-- ![Azure](https://img.shields.io/badge/Azure-yellow?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-green?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-yellow?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-yellow?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-yellow?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-yellow?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-yellow?style=for-the-badge&logo=css3&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-blue?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-blue?style=for-the-badge&logo=microsoftpowerapps&logoColor=white)
 
 
 ## Badges
