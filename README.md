@@ -39,6 +39,18 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/himakshi-chaturvedi-928370223)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/himakshiiii_/)
 
+
+<br>
+<div align="center">
+  <a href="[https://www.linkedin.com/in/himakshi-chaturvedi-928370223]" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="himakshi-linkedin" />
+  </a>
+  <a href="mailto:himakshi2209@gmail.com" target="top" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="himakshi-email"/>
+  </a>
+</div>
+
+
 Feel free to explore my repositories, and don't hesitate to reach out!
 
 
