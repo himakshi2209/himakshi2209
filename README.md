@@ -1,4 +1,8 @@
-# Hi there! 👋 I'm Himakshi Chaturvedi
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there+!;Welcome+to+my+profile;My+name+is+Himakshi+Chaturvedi;)](https://git.io/typing-svg)
+
 
 I'm an AI/ML enthusiast, developer, and problem solver passionate about leveraging technology to create innovative solutions.
 
