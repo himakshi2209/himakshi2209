@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![An image of @himakshi2209's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himakshi2209)](https://holopin.io/@himakshi2209)
 <!--
 **himakshi2209/himakshi2209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
