@@ -41,9 +41,6 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/himakshi-chaturvedi-928370223)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F)](https://www.instagram.com/himakshiiii_/)
-
 
 <br>
 <div align="center">
