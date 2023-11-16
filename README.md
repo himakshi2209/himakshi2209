@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5acbe9&height=70&section=header"/>
-<div align="center">
+<a target="_blank" align="center">
+  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  
+</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello+there+!;Welcome+to+my+profile;My+name+is+Himakshi+Chaturvedi;)](https://git.io/typing-svg)
-
-</div>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Himakshi+Chaturvedi+🌻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
 I'm an AI/ML enthusiast, developer, and problem solver passionate about leveraging technology to create innovative solutions.
 
 ## 🚀 Quick Overview
