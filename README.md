@@ -11,7 +11,7 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 ## 🛠️ Skills
 
 <div align="center">
-<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" height="50"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/2560px-CSS3_logo_and_wordmark.svg.png" alt="CSS" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="50"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="50"/>
