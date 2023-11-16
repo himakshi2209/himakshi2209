@@ -31,8 +31,13 @@ I'm an AI/ML enthusiast, developer, and problem solver passionate about leveragi
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himakshi2209&theme=radical)
 
-
 ![Profile Views](https://komarev.com/ghpvc/?username=himakshi2209)
+
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SubhadeepZilong&layout=compact&theme=algolia" alt="SubhadeepZilong" /></a> </p>
+
 
 ## 🌐 Connect with Me
 
