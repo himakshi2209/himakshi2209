@@ -9,6 +9,9 @@
 
 I'm an AI/ML enthusiast, developer, and problem solver passionate about leveraging technology to create innovative solutions.
 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
+
 ## 🚀 Quick Overview
 
 - 👨‍💻 I'm currently working on my web development skills.
