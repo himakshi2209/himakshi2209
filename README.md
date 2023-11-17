@@ -1,21 +1,46 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
+<h1 align="left">
+Hi, I'm Himakshi Chaturvedi!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<p align="center">
+	<a href="https://github.com/himakshi2209">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="himakshi2209" />
+	</a>
+	<a href="https://github.com/himakshi2209">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="himakshi2209" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/himakshi2209">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Intern+@+EY; Ex-Intern+@+Bosch +Gloabl+Software;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Hello!+I'm+Himakshi+Chaturvedi+🌻)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Nice+to+meet+you+🌻)](https://git.io/typing-svg)
+<hr>
 
 
-I'm an AI/ML enthusiast, developer, and problem solver passionate about leveraging technology to create innovative solutions.
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himakshi2209&label=Profile%20views&color=0e75b6&style=flat" alt="himakshi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="himakshi" /> </p>
 
 ## 🚀 Quick Overview
 
-- 👨‍💻 I'm currently working on my web development skills.
-- 🌱 I'm an AI/ML enthusiast
-- 💡 I'm interested in problem solving and data science.
+<pre>
+💻 I am a self taught Full Stack Developer and a Machine Learning Developer
+📚 I have a Bachelors in Computer Science 
+📝 I have a strong interest in Data Science and Artificial Intelligence
+🔭 Working on Deep Learning & Machine Learning
+🌱 I have interned with Bosch Global Software Technologies and currently I am an intern @ EY
+🌟 Main languages: Python, C++
+🚩 Interested in Full Stack Machine Learning Application development
+🤔 I’m currently open for: <b>An Internship</b> 
+</pre>
+<hr>
+
 
 ## 🛠️ Skills
 
