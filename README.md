@@ -9,10 +9,10 @@ Hi, I'm Himakshi Chaturvedi!
 </h1>
 <p align="center">
 	<a href="https://github.com/himakshi2209">
-		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="himakshi2209" />
+		<img src="https://komarev.com/ghpvc/?username=himakshi2209&label=Profile%20views&color=0e75b6&style=flat" alt="himakshi2209" />
 	</a>
 	<a href="https://github.com/himakshi2209">
-		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="himakshi2209" />
+		<img src="https://img.shields.io/github/followers/himakshi2209?label=Followers" alt="himakshi2209" />
 	</a>
 </p>
 <br/>
@@ -25,7 +25,7 @@ Hi, I'm Himakshi Chaturvedi!
 <hr>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="himakshi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=himakshi2209&label=Profile%20views&color=0e75b6&style=flat" alt="himakshi" /> </p>
 
 ## 🚀 Quick Overview
 
