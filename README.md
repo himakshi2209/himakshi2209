@@ -1,7 +1,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<h1 align="left">
+<h1 align="center">
 Hi, I'm Himakshi Chaturvedi!
 	<a href="https://github.com/himakshi2209" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -11,7 +11,7 @@ Hi, I'm Himakshi Chaturvedi!
 <br/>
 <p align="center">
 	<a href="https://github.com/himakshi2209">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Intern+at+EY;Ex+Intern+@+Bosch+Gloabl+Software;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Intern+at+EY;Intern+@+Bosch+Gloabl+Software;Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
