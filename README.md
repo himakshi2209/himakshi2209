@@ -7,18 +7,11 @@ Hi, I'm Himakshi Chaturvedi!
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
 </h1>
-<p align="center">
-	<a href="https://github.com/himakshi2209">
-		<img src="https://komarev.com/ghpvc/?username=himakshi2209&label=Profile%20views&color=0e75b6&style=flat" alt="himakshi2209" />
-	</a>
-	<a href="https://github.com/himakshi2209">
-		<img src="https://img.shields.io/github/followers/himakshi2209?label=Followers" alt="himakshi2209" />
-	</a>
-</p>
+
 <br/>
 <p align="center">
 	<a href="https://github.com/himakshi2209">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Intern+@+EY; Ex-Intern+@+Bosch +Gloabl+Software;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Intern+at+EY;ExIntern+@+Bosch+Gloabl+Software;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
