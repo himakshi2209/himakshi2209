@@ -11,7 +11,7 @@ Hi, I'm Himakshi Chaturvedi!
 <br/>
 <p align="center">
 	<a href="https://github.com/himakshi2209">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Intern+at+EY;ExIntern+@+Bosch+Gloabl+Software;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Intern+at+EY;Ex+Intern+@+Bosch+Gloabl+Software;Full+Stack+Web+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
